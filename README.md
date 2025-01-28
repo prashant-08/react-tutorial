@@ -1,2 +1,2 @@
 # react-tutorial
-Learning React
+Learning React with videos
